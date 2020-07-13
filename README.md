@@ -2,23 +2,10 @@ Hi there! 👋
 
 I'm Cesar. I'm a Computer Engineer specialised on Android.
 
-I currently work at ![](https://i.ibb.co/pbzpSWM/chewy-mini-logo.png) as an Android Tech Lead. I love Software Craftsmanship & Scaling Systems.
+I currently work at ![chewy.com](https://i.ibb.co/xC02sPn/chewy-super-small-logo.png) as an Android Tech Lead. I love Software Craftsmanship & Scaling Systems.
 
-
-
-
-
-<!--
-**cesards/cesards** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You can also find me: 
+- Talking about Software on ![https://twitter.com/cesards_](https://i.ibb.co/rQPt61C/social-twitter-icon-small.png)
+- Doing StackOverflow Driven Development ![https://stackoverflow.com/users/689723/cesards](https://i.ibb.co/GvpXpdx/social-stackoverflow-icon-small.png)
+- Saving Motion & UI Niceties on ![https://www.pinterest.com/cesards_/boards/](https://i.ibb.co/w6BDDmt/social-pinterest-icon-small.png) and ![https://dribbble.com/cesards/collections](https://i.ibb.co/dPTg24D/social-dribble-icon-small.png)
+- If you want to make a proposal [https://www.linkedin.com/in/cesards/](https://i.ibb.co/mJkyntZ/social-linkedin-icon-small.png)
