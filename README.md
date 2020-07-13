@@ -1,6 +1,4 @@
-Hi there! 👋
-
-I'm Cesar. I'm a Computer Engineer specialised on Android.
+Hi there! 👋 I'm Cesar. I'm a Computer Engineer with over 10 years of experience. 9 of those, focused on Android.
 
 I currently work at ![chewy.com](https://i.ibb.co/CQjbg7q/chewy-micro.png) as an Android Tech Lead. 
 
