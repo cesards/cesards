@@ -2,7 +2,7 @@ Hi there! 👋 &nbsp; I'm Cesar. I'm a Computer Engineer with over 10 years of e
 
 I currently work at ![chewy.com](https://i.ibb.co/CQjbg7q/chewy-micro.png) as an Android Tech Lead. 
 
-I love Software Craftsmanship & Scaling Systems.
+I love Software Craft & Scaling Systems.
 
 You can find me: 
 
