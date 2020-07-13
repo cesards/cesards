@@ -1,4 +1,12 @@
-### Hi there 👋
+Hi there! 👋
+
+I'm Cesar. I'm a Computer Engineer specialised on Android.
+
+I currently work at ![](https://i.ibb.co/pbzpSWM/chewy-mini-logo.png) as an Android Tech Lead. I love Software Craftsmanship & Scaling Systems.
+
+
+
+
 
 <!--
 **cesards/cesards** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
