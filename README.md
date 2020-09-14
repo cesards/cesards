@@ -4,8 +4,6 @@ Forever Software Craftsman Apprentice.
 
 I love scaling software-type problems, UI & UX.
 
-I currently work at ![chewy.com](https://i.ibb.co/CQjbg7q/chewy-micro.png) as an Android Tech Lead. 
-
 I love Software Craft & Scaling Systems.
 
 You can find me: 
