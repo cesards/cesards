@@ -2,9 +2,7 @@ Hi there! 👋 &nbsp; I'm Cesar. I'm a Computer Engineer with over 10 years of e
 
 Forever Software Craftsman Apprentice.
 
-I love scaling software-type problems, UI & UX.
-
-I love Software Craft & Scaling Systems.
+I love UI, UX & Scaling-related problems.
 
 You can find me: 
 
