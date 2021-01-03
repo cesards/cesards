@@ -1,4 +1,4 @@
-### Hi there! 👋 &nbsp; I'm Cesar, a Computer Engineer with over 12 years of experience. 10 of those, focused on Android.
+## Hi there! 👋 &nbsp; I'm Cesar, a Computer Engineer with over 12 years of experience. 10 of those, focused on Android.
 ### Forever Software Craftsman Apprentice.
 ### I love UI/UX & Scaling-related problems.
 ### You can find me: 
