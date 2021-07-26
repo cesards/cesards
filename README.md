@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <b>You can find me on:</b><br>
+  <b>You can also find me on:</b><br>
   <b><a href="https://twitter.com/cesards">Twitter</a></b>  |
   <b><a href="https://stackoverflow.com/users/689723/cesards">Stack Overflow</a></b>  |
   <b><a href="https://www.pinterest.com/cesards_/boards">Pinterest</a></b>  |
